@@ -3,6 +3,7 @@ tempfile.txt
 .DS_Store
 *.zip
 *.gz
+*.dmg
 log/*.log
 log/*.log.[0-9]
 assets/photoshop
